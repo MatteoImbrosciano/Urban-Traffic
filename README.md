@@ -8,7 +8,7 @@ I am a student who depends on public transport to get around the city, I often f
 - **Explore and use alternative transportation options based on the traffic situation.**
 - **Minimize waiting times at public transport stops.**
 - **Monitor traffic levels in critical areas of the city, especially during rush hours.**
-- **Real access to information on public transport timetables and any delays.**
+- **Have access to information on public transport timetables and any delays.**
 
 ### Documentacion
 
