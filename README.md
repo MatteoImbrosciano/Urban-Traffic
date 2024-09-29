@@ -1,14 +1,16 @@
-﻿### Urban-Traffic
+﻿### Balanced-Management
 
 
-I am a student who depends on public transport to get around the city, I often find myself dealing with urban traffic and traffic jams, especially during rush hours. This issue, unfortunately, makes my commute take longer than expected and often leads to significant delays. I would like to optimize my time and be able to count on more efficient means of transport, but currently I find myself having to wait even when traffic is particularly congested.
+I am a university student who faces a variety of different commitments on a daily basis. In addition to regularly attending classes and dedicating time to studying, I also take on part-time jobs to support myself financially and participate in extracurricular activities such as sports.
+Although these activities are important, I often find it difficult to manage my time effectively. One of the main problems I face is the lack of balance between the hours dedicated to studying and those reserved for recreational activities or rest. Sometimes I end up sacrificing sleep or leisure time to complete assignments or prepare for exams, which, over time, causes physical and mental fatigue, reducing my overall productivity.
+I would like to have a tool that allows me to better plan my time, helping me to set priorities and organize my week in such a way that study hours, work, and extracurricular activities are distributed evenly, avoiding reaching the end of the day completely exhausted.
 
 ## Objetivos del problema
 
-- **Explore and use alternative transportation options based on the traffic situation.**
-- **Minimize waiting times at public transport stops.**
-- **Monitor traffic levels in critical areas of the city, especially during rush hours.**
-- **Have access to information on public transport timetables and any delays.**
+- **Improving time management**
+- **Achieving work-life balance**
+- **Increasing productivity**
+- **Prioritizing tasks**
 
 ### Documentacion
 
