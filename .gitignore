@@ -1,3 +1,4 @@
+# Ignora file di librerie, log e dati temporanei
 *.lib-cov
 *.seed
 *.log
@@ -7,19 +8,18 @@
 *.gz
 *.[oa]
 *~
+
+# Ignora file temporanei di backup e Mac OS
 *.#
 **/.DS_Store
-# Ignore Mac DS_Store files
 .DS_Store
 
-kk
-no-es-kk
+# Ignora cartella fatlib
+fatlib/
 
-fatlib
+# Ignora compilazioni di Raku
+.precomp/
 
-#raku
-.precomp
-
-#comma
+# Ignora configurazioni IDE (IntelliJ IDEA, ecc.)
 *.iml
 .idea/
