@@ -1,5 +1,5 @@
 ## Clave pública
-```bash
+
 ssh-keygen -t ed25519 -C "1000014829@studium.unict.it"
 eval "$(ssh-agent -s)"
 ssh-add C:/Users/matte/.ssh/id_ed25519
@@ -8,11 +8,12 @@ Set-Service -Name ssh-agent -StartupType Manual
 Start-Service ssh-agent
 
 ## Identidad 
-```bash
+
 git config --global user.name "Matteo"
 git config --global user.email "1000014829@studium.unict.it"
 
 ## Repository
+
 echo "# Urban-Traffic" >> README.md
 git init
 git add README.md
