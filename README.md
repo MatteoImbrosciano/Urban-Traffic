@@ -6,6 +6,8 @@ Each team member interprets the rules differently, which leads to significant er
 The constant introduction of new regulations by supervisory authorities makes it even more difficult to maintain an adequate level of compliance, increasing the risk of sanctions.
 The company therefore finds itself having to automate this process, to reduce errors due to the human factor and ensure that the regulations are applied correctly and up to date.
 
+## Api
+Global-Regulation API
 
 ## Documentación
 
