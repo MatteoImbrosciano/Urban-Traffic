@@ -9,17 +9,6 @@
 *.[oa]
 *~
 
-# Ignora file temporanei di backup e Mac OS
-*.#
-**/.DS_Store
-.DS_Store
-
-# Ignora cartella fatlib
-fatlib/
-
-# Ignora compilazioni di Raku
-.precomp/
-
-# Ignora configurazioni IDE (IntelliJ IDEA, ecc.)
-*.iml
-.idea/
+# File temporanei
+*.tmp
+*.pid
