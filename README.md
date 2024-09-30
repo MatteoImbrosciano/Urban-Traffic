@@ -5,7 +5,7 @@ I am a university student who faces a variety of different commitments on a dail
 
 ## Documentación
 
-La documentación completa del proyecto se encuentra en la carpeta [Documentación](./Documentation/conf.md).
+La documentación completa del proyecto se encuentra en la carpeta [Documentación](./Documentacion/conf.md).
 
 ## Licencia
 
