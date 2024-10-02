@@ -1,17 +1,18 @@
-﻿# Automated-Compliance
+﻿# Medication Management
 
-I'm a college student working on a complex project related to regulatory compliance at an insurance company.
-The problem concerns the difficulty of ensuring uniform and consistent application of regulations in all financial transactions and contracts. 
-Each team member interprets the rules differently, which leads to significant errors and delays in the contract approval process. 
-The constant introduction of new regulations by supervisory authorities makes it even more difficult to maintain an adequate level of compliance, increasing the risk of sanctions.
-The company therefore finds itself having to automate this process, to reduce errors due to the human factor and ensure that the regulations are applied correctly and up to date.
+I am a person who needs to regularly purchase medications from a pharmacy for personal or family needs. When I make a purchase, I receive an electronic receipt with details of the medications bought, including the name of the medication, the quantity, and the purchase date. However, to keep track of the stock of medications I already have at home and to avoid buying new ones unnecessarily, I have to manually transfer this information into a separate list.
+This process is slow and prone to errors. 
+I would like an automated way to read electronic receipts and automatically update my medication inventory, so that I always have a clear view of what medications I have on hand and when I need to purchase more
 
-## Api
-Global-Regulation API
+## Objetivos
+-Automate electronic receipt reading
+-Inventory management and updating
+-Intelligent notifications and alerts
+-User-friendly interface
 
 ## Documentación
 
-La documentación completa del proyecto se encuentra en la carpeta [Documentación](./Documentacion/conf.md).
+La documentación completa del proyecto se encuentra en la carpeta [Documentación](./Documentacion).
 
 ## Licencia
 
