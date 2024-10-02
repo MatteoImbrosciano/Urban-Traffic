@@ -16,4 +16,4 @@ La documentación completa del proyecto se encuentra en la carpeta [Documentaci�
 
 ## Licencia
 
-Este proyecto está licenciado bajo la licencia [MIT](./LICENSE.txt).
+Este proyecto está licenciado bajo la licencia [LICENSE](./LICENSE).
