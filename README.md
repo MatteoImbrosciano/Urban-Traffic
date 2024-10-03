@@ -1,22 +1,22 @@
 ﻿# Medication Management
 
-I am a person who needs to regularly purchase medications from a pharmacy for personal or family needs. When I make a purchase, I receive an electronic receipt with details of the medications bought, including the name of the medication, the quantity, and the purchase date. However, to keep track of the stock of medications I already have at home and to avoid buying new ones unnecessarily, I have to manually transfer this information into a separate list.
-This process is slow and prone to errors. 
-I would like an automated way to update my medication inventory, so that I always have a clear view of what medications I have on hand and when I need to purchase more
+Soy una persona que necesita comprar regularmente medicamentos en una farmacia para necesidades personales o familiares. Cuando realizo una compra, recibo un recibo electrónico con el detalle de los medicamentos comprados, incluyendo el nombre del medicamento, la cantidad y la fecha de compra. Sin embargo, para realizar un seguimiento del stock de medicamentos que ya tengo en casa y evitar comprar nuevos innecesariamente, tengo que transferir manualmente esta información a una lista separada.
+Este proceso es lento y propenso a errores. 
+Me gustaría contar con una forma automatizada de actualizar mi inventario de medicamentos, para tener siempre una visión clara de qué medicamentos tengo a mano y cuándo necesito comprar más.
 
 ## Objetivos
--Automate electronic receipt reading
+-Automatizar la lectura de recibos electrónicos.
 
--Inventory management and updating
+-Gestión y actualización de inventarios.
 
--Intelligent notifications and alerts
+-Notificaciones y alertas inteligentes.
 
--User-friendly interface
+-Interfaz fácil de usar
 
-## Documentación
+##Documentación
 
 La documentación completa del proyecto se encuentra en la carpeta [Documentación](./Documentacion).
 
 ## Licencia
 
-Este proyecto está licenciado bajo la licencia [LICENSE](./LICENSE).
+Este proyecto está licenciado bajo la licencia [LICENCIA](./LICENCIA).
