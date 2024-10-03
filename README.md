@@ -5,6 +5,7 @@ Este proceso es lento y propenso a errores.
 Me gustaría contar con una forma automatizada de actualizar mi inventario de medicamentos, para tener siempre una visión clara de qué medicamentos tengo a mano y cuándo necesito comprar más.
 
 ## Objetivos
+
 -Automatizar la lectura de recibos electrónicos.
 
 -Gestión y actualización de inventarios.
@@ -13,7 +14,7 @@ Me gustaría contar con una forma automatizada de actualizar mi inventario de me
 
 -Interfaz fácil de usar
 
-##Documentación
+## Documentación
 
 La documentación completa del proyecto se encuentra en la carpeta [Documentación](./Documentacion).
 
