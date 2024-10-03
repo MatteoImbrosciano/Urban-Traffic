@@ -6,8 +6,11 @@ I would like an automated way to read electronic receipts and automatically upda
 
 ## Objetivos
 -Automate electronic receipt reading
+
 -Inventory management and updating
+
 -Intelligent notifications and alerts
+
 -User-friendly interface
 
 ## Documentación
