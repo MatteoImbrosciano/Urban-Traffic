@@ -1,4 +1,4 @@
-﻿# Medication Management
+# Medication Management
 
 Soy una persona que necesita adquirir periódicamente medicamentos en la farmacia para necesidades personales o familiares. Cuando realizo una compra, recibo un recibo electrónico con los detalles de los medicamentos adquiridos, incluido el nombre del medicamento, cantidad y fecha de compra. 
 Sin embargo, para realizar un seguimiento del suministro de medicamentos que ya tengo en casa y evitar comprar nuevos innecesariamente, tengo que transferir manualmente esta información a una lista separada. 
@@ -19,3 +19,4 @@ La documentación completa del proyecto se encuentra en la carpeta [Documentaci�
 ## Licencia
 
 Este proyecto está licenciado bajo la licencia [LICENCIA](./LICENCIA).
+
