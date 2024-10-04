@@ -15,6 +15,7 @@ Me gustaría contar con una forma automatizada de actualizar mi inventario de me
 ## Documentación
 
 La documentación completa del proyecto se encuentra en la carpeta [Documentación](./Documentacion).
+[.gitignore](./.gitignore).
 
 ## Licencia
 
