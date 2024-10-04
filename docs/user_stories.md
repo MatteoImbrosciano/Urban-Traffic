@@ -1,6 +1,6 @@
 # User Story
 
-## [HU001] Usuario regular: Carga de tickets electrónicos
+## [HU1] Usuario regular: Carga de tickets electrónicos
 **Como usuario regular**,  
 quiero poder cargar fácilmente los tickets electrónicos recibidos en la farmacia,  
 para que el inventario de los medicamentos se actualice automáticamente sin tener que transcribir manualmente la información.  
@@ -8,7 +8,7 @@ para que el inventario de los medicamentos se actualice automáticamente sin ten
 
 ---
 
-## [HU002] Persona responsable de la compra de medicamentos: Actualización automática del inventario
+## [HU2] Persona responsable de la compra de medicamentos: Actualización automática del inventario
 **Como persona responsable de las compras**,  
 deseo que el inventario se actualice automáticamente cada vez que compro nuevos medicamentos,  
 **para que** pueda evitar confusiones o compras redundantes.  
@@ -16,7 +16,7 @@ deseo que el inventario se actualice automáticamente cada vez que compro nuevos
 
 ---
 
-## [HU003] Usuario regular: Notificaciones de agotamiento de existencias
+## [HU3] Usuario regular: Notificaciones de agotamiento de existencias
 **Como usuario regular**,  
 quiero recibir notificaciones cuando uno de mis medicamentos esté por agotarse,  
 **para que** pueda saber a tiempo cuándo debo comprar nuevos medicamentos.  
@@ -24,7 +24,7 @@ quiero recibir notificaciones cuando uno de mis medicamentos esté por agotarse,
 
 ---
 
-## [HU004] Usuario regular: Visualización del inventario
+## [HU4] Usuario regular: Visualización del inventario
 **Como usuario regular**,  
 quiero visualizar fácilmente el inventario completo de los medicamentos que tengo a disposición, incluidos el nombre, la cantidad y la fecha de compra,  
 **para que** pueda tener una visión clara y detallada de los medicamentos disponibles en casa.  
