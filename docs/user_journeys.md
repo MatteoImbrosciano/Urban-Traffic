@@ -1,41 +1,40 @@
 # User Journeys
 
 ## 1. Laura
-   32 anni, paziente
-    
-### Contesto:
-Ogni volta che compro medicinali, ricevo un ticket elettronico che contiene dettagli come il nome del medicinale, la quantità e il prezzo. Attualmente, devo trascrivere manualmente queste informazioni in una lista per aggiornare l'inventario dei medicinali che ho in casa.
+   32 años, paciente
+
+### Contexto:
+Cada vez que compro medicamentos, recibo un ticket electrónico que contiene detalles como el nombre del medicamento, la cantidad y el precio. Actualmente, debo transcribir manualmente esta información en una lista para actualizar el inventario de los medicamentos que tengo en casa.
 
 ### Problema:
-Trascrivere manualmente i dati è un processo soggetto a errori, richiede molto tempo e può portarmi a dimenticare quali medicinali ho già acquistato. Questo può causare l'acquisto di farmaci doppi o il rischio di restare senza i medicinali necessari.
+Transcribir manualmente los datos es un proceso propenso a errores, requiere mucho tiempo y puede hacer que olvide qué medicamentos ya he comprado. Esto puede causar la compra de medicamentos duplicados o el riesgo de quedarme sin los medicamentos necesarios.
 
-### Obiettivo:
-Vorrei poter caricare il ticket elettronico direttamente nell'applicazione, così che le informazioni vengano estratte automaticamente e l'inventario si aggiorni senza il mio intervento manuale. In questo modo, posso evitare di acquistare medicinali che già possiedo e mantenere il controllo sulle scorte attuali.
+### Objetivo:
+Me gustaría poder cargar el ticket electrónico directamente en la aplicación, para que la información se extraiga automáticamente y el inventario se actualice sin mi intervención manual. De esta manera, puedo evitar comprar medicamentos que ya tengo y mantener el control sobre las existencias actuales.
 
 ---
 
-## 2. Federica
-   45 anni, farmacista
-  
-### Contesto:
-Sono responsabile dell'acquisto dei medicinali per diverse persone, compresi i miei familiari. Devo gestire un inventario variegato di farmaci e monitorare le quantità e i tempi di acquisto. Ogni acquisto è accompagnato da un ticket elettronico che registro manualmente per evitare errori di acquisizione.
+## 2. Persona responsable de la compra de medicamentos
+
+### Contexto:
+Soy responsable de la compra de medicamentos para varias personas, a menudo familiares, y debo llevar un registro de un inventario variado de medicamentos, gestionando cantidades y tiempos de compra. Cada compra va acompañada de un ticket electrónico que registro manualmente para evitar adquisiciones duplicadas.
 
 ### Problema:
-È facile dimenticare quali medicinali ho già comprato, soprattutto quando acquisto per più persone. Inoltre, gestire manualmente l'inventario di più prodotti è complesso e spesso non riesco a monitorare efficacemente quando i medicinali stanno per finire, portandomi a fare acquisti ridondanti.
+Es fácil olvidar qué medicamentos ya he comprado, especialmente cuando compro para varias personas. Además, gestionar manualmente múltiples existencias es complicado y no siempre logro monitorear eficazmente cuándo se están agotando, lo que provoca compras redundantes.
 
-### Obiettivo:
-Vorrei ricevere notifiche automatiche che mi avvisino quando un medicinale sta per esaurirsi o è necessario acquistare un nuovo lotto. Questo ridurrebbe gli errori e garantirebbe che non restiamo mai senza i medicinali necessari. Mi permetterebbe inoltre di monitorare facilmente l'inventario senza dover controllare manualmente ogni prodotto.
+### Objetivo:
+Me gustaría recibir notificaciones automáticas que me avisen cuando un medicamento está a punto de agotarse o es necesario comprar uno nuevo. Esto reduciría los errores y garantizaría que nunca nos quedemos sin los medicamentos necesarios. También me permitiría monitorear fácilmente el inventario sin tener que revisar manualmente cada producto.
 
 ---
 
 ## 3. Antonio
-   65 anni, pensionato
-   
-### Contesto:
-A causa dell'età e della mia memoria limitata, gestire l'inventario dei medicinali in casa è molto complicato. Compro medicinali in momenti diversi e non sempre ricordo quali prodotti ho già acquistato o in che quantità li possiedo.
+   65 años, jubilado
+
+### Contexto:
+Debido a mi edad y a mi memoria limitada, gestionar el inventario de medicamentos en casa es muy complicado. Compro medicamentos en momentos diferentes y no siempre recuerdo qué productos ya he comprado o en qué cantidad los tengo.
 
 ### Problema:
-Mi risulta difficile ricordare quali medicinali ho in casa, quando li ho comprati e quanti ne ho ancora disponibili. Senza un sistema che mi aiuti, potrei dimenticare di acquistare un medicinale essenziale o confondermi con le quantità, rischiando di restare senza ciò di cui ho bisogno.
+Me resulta difícil recordar qué medicamentos tengo en casa, cuándo los compré y cuántos me quedan disponibles. Sin un sistema que me ayude, podría olvidar comprar un medicamento esencial o confundirme con las cantidades, lo que podría hacer que me quede sin lo que necesito.
 
-### Obiettivo:
-Vorrei avere un'applicazione che mi mostri in modo chiaro e intuitivo quali medicinali ho disponibili, con la quantità attuale e la data di acquisto. In questo modo, potrei gestire facilmente il mio inventario senza dover dipendere dalla mia memoria.
+### Objetivo:
+Me gustaría tener una aplicación que me muestre de manera clara e intuitiva qué medicamentos tengo disponibles, con la cantidad actual y la fecha de compra. De esta manera, podría gestionar fácilmente mi inventario sin depender de mi memoria.
