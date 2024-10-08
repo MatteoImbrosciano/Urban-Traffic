@@ -1,4 +1,4 @@
-# Milestones del Proyecto
+# Milestones 
 
 ## [M0] Milestone 0: Modelado y planificación del dominio del problema  
 **Objetivo:** Analizar las historias de usuario e identificar los conceptos clave necesarios para abordar el problema en el desarrollo del MVP. Estructurar los conceptos principales basados en las necesidades y expectativas de los usuarios, utilizando la metodología Domain-Driven Design (DDD).  
@@ -8,7 +8,7 @@
 
 ---
 
-## [M1] Milestone 1: Creación y gestión manual del inventario  
+## [M1] Milestone 1: Creación y gestión  del inventario  
 **Objetivo:** Crear un sistema que permita la gestión de un inventario de medicamentos, donde el usuario pueda agregar y visualizar los medicamentos manualmente (nombre, cantidad, fecha de compra). Este sistema será la base para futuras iteraciones.  
 **Entregable:** Código que permita al usuario gestionar un inventario de medicamentos, con la capacidad de agregar, actualizar y visualizar los datos manualmente.  
 **Factibilidad:** Completado cuando el sistema de inventario esté operativo y verificado a través de pruebas funcionales.  
