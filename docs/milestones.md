@@ -31,6 +31,7 @@
 **Historias de Usuario asociadas:** [HU3].
 
 ---
+# Milestones adicionales
 
 ## [M4] Milestone 4: Dashboard de visualización del inventario  
 **Objetivo:** Implementar un panel de control que permita al usuario visualizar fácilmente el inventario de medicamentos en tiempo real, con información como el nombre del medicamento, la cantidad disponible y la fecha de compra.  
