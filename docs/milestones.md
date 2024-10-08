@@ -1,36 +1,39 @@
-# Milestones
+# Milestones del Proyecto
 
-## [M0] Milestone 0: Modelado y planificación del problema
+## [M0] Milestone 0: Modelado y planificación del dominio del problema  
+**Objetivo:** Analizar las historias de usuario e identificar los conceptos clave necesarios para abordar el problema en el desarrollo del MVP. Estructurar los conceptos principales basados en las necesidades y expectativas de los usuarios, utilizando la metodología Domain-Driven Design (DDD).  
+**Entregable:** Un modelo inicial del dominio que describa los conceptos clave y sus relaciones, tales como medicamentos, tickets electrónicos, inventario y notificaciones.  
+**Factibilidad:** Completado cuando el modelo del dominio ha sido validado por el equipo de desarrollo y las partes interesadas, con un claro alineamiento con las historias de usuario.  
+**Historias de Usuario asociadas:** [HU1], [HU2], [HU3].
 
-- **Objetivo:** Analizar las historias de usuario y definir los requisitos clave del dominio del problema a abordar en el desarrollo del MVP. Organizar los conceptos clave de acuerdo con las necesidades del negocio, utilizando Domain-Driven Design (DDD) como metodología.
-- **Entregable:** Un modelado inicial del dominio del problema con los conceptos clave y sus relaciones. Definir las entidades y agregados necesarios para desarrollar el MVP, basado en las historias de usuario.
-- **Viabilidad:** El hito se completa cuando el modelado y la planificación del problema son validados por el revisor y comprensibles para el equipo de desarrollo. Las historias de usuario deben estar correctamente alineadas con los conceptos clave del dominio.
-- **Historias de Usuario asociadas:** [HU1], [HU2], [HU3].
+---
 
-## [M1] Milestones 1: Adquisición de los tickets electrónicos
+## [M1] Milestone 1: Creación y gestión manual del inventario  
+**Objetivo:** Crear un sistema que permita la gestión de un inventario de medicamentos, donde el usuario pueda agregar y visualizar los medicamentos manualmente (nombre, cantidad, fecha de compra). Este sistema será la base para futuras iteraciones.  
+**Entregable:** Código que permita al usuario gestionar un inventario de medicamentos, con la capacidad de agregar, actualizar y visualizar los datos manualmente.  
+**Factibilidad:** Completado cuando el sistema de inventario esté operativo y verificado a través de pruebas funcionales.  
+**Historias de Usuario asociadas:** [HU1].
 
-- **Objetivo:** Implementar la funcionalidad que permita al usuario cargar un ticket electrónico y extraer automáticamente los datos de los medicamentos.
-- **Entregable:** Código que permita cargar un ticket electrónico y obtener información como el nombre del medicamento, cantidad y fecha de compra.
-- **Viabilidad:** El hito se completa cuando el sistema es capaz de cargar exitosamente varios formatos de tickets electrónicos y extraer correctamente la información solicitada.
-- **Historias de Usuario asociadas:** [HU1].
+---
 
-## [M2] Milestones 2: Actualización automática del inventario
+## [M2] Milestone 2: Carga de tickets electrónicos y actualización automática del inventario  
+**Objetivo:** Implementar una funcionalidad que permita a los usuarios cargar un ticket electrónico (por ejemplo, recibo de farmacia) y actualizar automáticamente el inventario con la información extraída (nombre del medicamento, cantidad, fecha de compra).  
+**Entregable:** Código que permita la carga y procesamiento de tickets electrónicos para actualizar el inventario de manera automática.  
+**Factibilidad:** Completado cuando el inventario se actualice correctamente utilizando los datos extraídos de los tickets electrónicos, con éxito verificado mediante pruebas de aceptación.  
+**Historias de Usuario asociadas:** [HU2].
 
-- **Objetivo:** Implementar la funcionalidad que actualiza automáticamente el inventario de los medicamentos cada vez que se carga un ticket electrónico.
-- **Entregable:** Código que permita la actualización automática del inventario en función de los datos extraídos de los tickets electrónicos.
-- **Viabilidad:** El hito se completa cuando el sistema actualiza correctamente el inventario con la información extraída y puede ser verificado mediante pruebas de aceptación.
-- **Historias de Usuario asociadas:** [HU2].
+---
 
-## [M3] Milestones 3: Sistema de notificaciones inteligentes
+## [M3] Milestone 3: Sistema de notificaciones inteligentes  
+**Objetivo:** Implementar un sistema que notifique al usuario cuando las existencias de un medicamento estén a punto de agotarse o cuando sea necesario comprar un nuevo lote de medicamentos. Las notificaciones deben ser configurables según umbrales personalizables por el usuario.  
+**Entregable:** Código que permita el envío de notificaciones basadas en los niveles de existencias de los medicamentos y configurables por el usuario.  
+**Factibilidad:** Completado cuando el sistema envíe correctamente notificaciones inteligentes, basadas en umbrales predefinidos o personalizados por el usuario, con pruebas de aceptación que validen su funcionamiento.  
+**Historias de Usuario asociadas:** [HU3].
 
-- **Objetivo:** Implementar un sistema de notificaciones que avise al usuario cuando el stock de un medicamento esté a punto de agotarse o cuando sea necesario comprar un nuevo lote de medicamentos.
-- **Entregable:** Código que permita el envío de notificaciones inteligentes al usuario.
-- **Viabilidad:** El hito se completa cuando el sistema envía correctamente notificaciones basadas en el nivel de stock de los medicamentos en inventario.
-- **Historias de Usuario asociadas:** [HU3].
+---
 
-## [M4] Milestones 4: Interfaz de visualización del inventario
-
-- **Objetivo:** Implementar un panel de control (dashboard) que permita al usuario visualizar el inventario actualizado de los medicamentos, incluyendo el nombre, la cantidad y la fecha de compra.
-- **Entregable:** Código que permita la visualización del inventario en una interfaz fácil de usar.
-- **Viabilidad:** El hito se completa cuando el inventario es visible en un formato claro y fácil de interpretar para el usuario.
-- **Historias de Usuario asociadas:** [HU4].
+## [M4] Milestone 4: Dashboard de visualización del inventario  
+**Objetivo:** Implementar un panel de control que permita al usuario visualizar fácilmente el inventario de medicamentos en tiempo real, con información como el nombre del medicamento, la cantidad disponible y la fecha de compra.  
+**Entregable:** Código que permita visualizar el inventario en un panel intuitivo y fácil de usar, que ofrezca una visión clara y actualizada de los medicamentos.  
+**Factibilidad:** Completado cuando el inventario sea visible de manera clara a través del panel, con retroalimentación positiva de los usuarios en las pruebas de usabilidad.  
+**Historias de Usuario asociadas:** [HU4].
